@@ -1,0 +1,21 @@
+= Chapter 8 - 🏘️ Grouping Methods
+
+* Example 148 - imperativeGroupPresidentOfUSAByUniqueName
+* Example 149 - groupPresidentOfUSAByUniqueName
+* Example 150 - imperativeGroupPresidentOfUSAByBirthGenerationUsingMutableMap
+* Example 151 - imperativeGroupPresidentOfUSAByBirthGenerationUsingMutableMultimap
+* Example 152 - groupPresidentOfUSAByBirthGeneration
+* Example 153 - groupPresidentOfUSAByBirthGenerationToTargetMultimap
+* Example 154 - streamCollectors2GroupByBirthGeneration
+* Example 155 - streamCollectorsGroupingByBirthGeneration
+* link:Example156Test.java[Example 156] - imperativeGroupGenerationsByPresidentsWhoServed
+* link:Example157Test.java[Example 157] - groupGenerationsByEachPresidentWhoServed
+* Example 158 - groupPresidentOfUSAByBirthGenerationAndCollectNames
+* Example 159 - streamGroupPresidentOfUSAByBirthGenerationAndCollectNames
+* Example 160 - flipUniqueValuesGenerationsByYears
+* Example 161 - invertBiMapYearsByGeneration
+* Example 162 - flipMapOfBirthYearsByPresident
+* Example 163 - flipMultimapOfGenerationsByEachPresidentWhoServed
+* Example 164 - eagerChunkGenerationsByThree
+* Example 165 - lazyChunkGenerationsByThree
+* Example 166 - streamChunkGenerationsByThree

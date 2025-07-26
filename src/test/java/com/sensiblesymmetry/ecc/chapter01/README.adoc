@@ -1,0 +1,9 @@
+= Chapter 1 - Why Learn Eclipse Collections? 💡
+
+* link:Example001Test.java[Example 1] - streamFilterForFilteringEvensAndOdds
+* Example 2 - lazyIterableSelectRejectForFilteringEvensAndOdds
+* link:Example003Test.java[Example 3] - intListSelectRejectForFilteringEvensAndOdds
+* Example 4 - imperativeGroupingByEvensOdds
+* Example 5 - imperativePartitioningByEvensOdds
+* Example 6 - streamCollectorsGroupingByPartitioningByEvensOdds
+* Example 7 - eclipseCollectionsGroupByPartitionEvensOdds

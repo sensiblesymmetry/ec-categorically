@@ -1,0 +1,15 @@
+= Chapter 9 - 📊 Aggregating Results
+
+* Example 167 - injectIntoToCalculateMaxYearsServedOfPresidents
+* Example 168 - injectIntoToCalculateMinYearsServedOfBoomerPresidents
+* Example 169 - injectIntoToCalculateSumOfYearsBoomerPresidentsServed
+* Example 170 - injectIntoIntToCalculateSumOfYearsBoomerPresidentsServed
+* Example 172 - sumOfIntYearsPresidentsHaveServed
+* Example 173 - eagerCollectIntSumYearsPresidentsHaveServed
+* Example 174 - lazyCollectIntSumYearsPresidentsHaveServed
+* link:Example175Test.java[Example 175] - streamMapToIntSumYearsPresidentsHaveServed
+* Example 176 - streamMapToLongReduceYearsPresidentsHaveServed
+* link:Example177Test.java[Example 177] - summarizeIntForYearsPresidentsHaveServed
+* Example 178 - sumByIntYearsServedByGeneration
+* Example 179 - aggregateInPlaceBy
+* Example 180 - aggregateBy

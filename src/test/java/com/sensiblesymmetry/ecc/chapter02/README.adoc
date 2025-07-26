@@ -1,0 +1,18 @@
+= Chapter 2 - 🎼 Eclipse Collections Fundamentals
+
+* Example 8 - everythingButMultimapIsIterable
+* Example 9 - streamThrowsExceptionAfterOneUse
+* Example 10 - jdkInteropWithMutableCollections
+* Example 11 - jdkInteropWithImmutableCollections
+* Example 12 - listIterable
+* Example 13 - mutableList
+* link:Example014Test.java[Example 14] - immutableList
+* Example 15 - covariantOverridesAndReturnTypesForSelect
+* Example 16 - countStringsMutableBag
+* Example 17 - countStringsHashMap
+* Example 18 - biMapIntegerToString
+* Example 19 - listMultimapOfFruitByFirstLetter
+* Example 20 - jdkMapOfFruitByFirstLetter
+* Example 21 - intList
+* Example 22 - mutableIntList
+* link:Example023Test.java[Example 23] - immutableIntList

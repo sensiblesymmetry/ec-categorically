@@ -1,0 +1,17 @@
+= Chapter 11 - Key Things to Remember 🔐
+
+* link:Example195Test.java[Example 195] - eagerMutableObjectCollection
+* Example 196 - eagerImmutableObjectCollection
+* Example 197 - eagerMutablePrimitiveCollection
+* Example 198 - eagerImmutablePrimitiveCollection
+* link:Example199Test.java[Example 199] - lazyMutableObjectCollection
+* Example 200 - lazyImmutableObjectCollection
+* Example 201 - lazyMutablePrimitiveCollection
+* Example 202 - lazyPrimitiveImmutableCollection
+* Example 203 - fusedMutableObjectCollection
+* Example 204 - fusedImmutableObjectCollection
+* Example 205 - parallelMutableObjectCollection
+* Example 206 - parallelImmutableObjectCollection
+* Example 207 - parallelMutablePrimitiveCollection
+* Example 208 - parallelImmutablePrimitiveCollection
+* Example 209 - adapters

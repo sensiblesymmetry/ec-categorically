@@ -1,0 +1,31 @@
+= Chapter 6 - 🚰 Filtering Methods
+
+* link:Example087Test.java[Example 87] - selectGenerationsAfter1980
+* Example 88 - eagerSelectGenerationsAfter1950AndBefore1980
+* Example 89 - lazySelectGenerationsAfter1950AndBefore1980
+* Example 90 - eagerSelectWithAndTapGenerationsAfter1950AndBefore1980
+* Example 91 - lazySelectWithAndTapGenerationsAfter1950AndBefore1980
+* Example 92 - streamFilterAndPeekGenerationsAfter1950AndBefore1980
+* Example 93 - parallelEagerSelectWithGenerationsAfter1950AndBefore1980
+* Example 94 - parallelLazySelectWithGenerationsAfter1950AndBefore1980
+* Example 95 - parallelStreamFilterAndPeekGenerationsAfter1950AndBefore1980
+* Example 96 - primitiveSelectAndFilter
+* Example 97 - selectIntoTargetHashSet
+* Example 98 - selectInstancesOf
+* Example 99 - eagerRejectGenerationsBefore1980
+* Example 100 - lazyRejectGenerationsAfter1946AndBefore1980
+* Example 101 - parallelLazyRejectWithGenerationsBefore1946AndAfter1980
+* Example 102 - primitiveRejectAndFilter
+* Example 103 - imperativeSelectAndRejectGenerationsAfter1980
+* link:Example104Test.java[Example 104] - partitionGenerationsAfter1980
+* Example 105 - partitionWithGenerationsAfter1980
+* Example 106 - partitioningByGenerationsAfter1980
+* Example 107 - uniqueToSet
+* Example 108 - distinctMutableList
+* Example 109 - distinctImmutableList
+* Example 110 - selectUnique
+* Example 111 - selectDuplicates
+* Example 112 - selectWithIndex
+* Example 113 - primitiveSelectWithIndex
+* Example 114 - rejectWithIndex
+* Example 115 - primitiveRejectWithIndex

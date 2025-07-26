@@ -1,0 +1,33 @@
+= Chapter 7 - 🦋 Transforming Methods
+
+* Example 116 - eagerCollect
+* Example 117 - eagerCollectWith
+* Example 118 - eagerCollectIf
+* link:Example119Test.java[Example 119] - lazySelectWithAndCollect
+* link:Example120Test.java[Example 120] - lazyFilterAndMap
+* Example 121 - parallelLazySelectWithAndCollect
+* Example 122 - lazyCollectWith
+* Example 123 - collectIntoTargetHashSet
+* Example 124 - eagerCollectAllPrimitiveTypes
+* Example 125 - eagerCollectAllPrimitiveTypesIntoPrimitiveSets
+* Example 126 - lazyCollectAllPrimitiveTypes
+* Example 127 - lazyPrimitiveStreams
+* Example 128 - streamCollectAllPrimitiveTypes
+* Example 130 - imperativeFlattenAndTransformPresidentsFromGenerations
+* Example 131 - eagerFlatCollectPresidentsFromSelectGenerations
+* Example 132 - eagerFlatCollectPresidentsFromSelectGenerationsIntoSet
+* Example 133 - lazyFlatCollectPresidentsFromSelectGenerationsIntoSet
+* Example 134 - streamFlatMapPresidentsFromSelectGenerationsToSet
+* Example 135 - parallelFlatCollectPresidentsFromSelectGenerationsToSet
+* Example 136 - parallelStreamFlatMapPresidentsFromSpecificGenerationsToSet
+* Example 137 - eagerFlatCollectGenerationsAfter2010ToIntSet
+* Example 138 - lazyFlatCollectGenerationsAfter2010ToIntSet
+* Example 139 - eagerPrimitiveFlatCollect
+* Example 140 - lazyPrimitiveFlatCollect
+* Example 141 - eagerCollectGenerationWithIndexToPair
+* Example 142 - eagerCollectGenerationWithIndexToObjectIntPair
+* Example 143 - eagerCollectGenerationWithIndexToObjectIntPairIntoSet
+* Example 144 - eagerZipWithIndex
+* Example 145 - lazyZipWithIndex
+* Example 146 - eagerZip
+* Example 147 - lazyZip

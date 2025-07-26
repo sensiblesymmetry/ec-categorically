@@ -1,0 +1,16 @@
+= Chapter 10 - ⊆ Set Operations
+
+* Example 181 - javaSetUnion
+* Example 182 - javaSetIntersection
+* Example 183 - javaSetDifference
+* Example 184 - javaSetSymmetricDifference
+* Example 185 - unionSetsOfPresidents
+* Example 186 - unionSetOfBirthYears
+* Example 187 - intersectBoomersWithPresidentsWhoServedDuringMillennial
+* Example 188 - intersectBillClintonYearsWithMillennialYears
+* Example 189 - differenceSetsOfPresidents
+* Example 190 - differenceSetsOfPresidentsBirthYears
+* link:Example191Test.java[Example 191] - symmetricDifferenceOfGenZAndGenAlphaPresidents
+* Example 192 - symmetricDifferenceOfFloats
+* link:Example193Test.java[Example 193] - cartesianProductOfStringsToCreatePlayingCards
+* Example 194 - lazyIterateCartesianProductOfStringsToCreatePlayingCards

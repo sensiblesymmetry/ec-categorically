@@ -1,0 +1,20 @@
+= Chapter 4 - 🧪 Testing Methods
+
+* Example 48 - anySatisfy
+* Example 49 - anyMatch
+* Example 50 - lambdasAndMethodReferences
+* Example 51 - anySatisfyWith
+* Example 52 - anySatisfyEqualsVsContains
+* Example 53 - anySatisfyPresidentBornInGenerationX
+* link:Example054Test.java[Example 54] - mapAndAnyMatch
+* Example 55 - collectAndAnySatisfy
+* Example 56 - anySatisfyWithPresidentBornInGenerationX
+* link:Example057Test.java[Example 57] - containsBy
+* Example 58 - containsAnyAllNone
+* Example 59 - bagEquality
+* Example 60 - setEquality
+* Example 61 - listEquality
+* Example 62 - convertToSortedListForEquality
+* Example 63 - convertToSetForEquality
+* Example 64 - convertToBagForEquality
+* Example 65 - toImmutable

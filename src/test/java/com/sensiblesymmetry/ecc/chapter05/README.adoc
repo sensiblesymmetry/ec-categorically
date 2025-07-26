@@ -1,0 +1,20 @@
+= Chapter 5 - 🔎 Finding Methods
+
+* Example 66 - detect
+* link:Example067Test.java[Example 67] - detectWith
+* Example 68 - detectIfNoneAndDetectWithIfNone
+* Example 69 - detectOptionalAndDetectWithOptional
+* Example 70 - primitiveDetectIfNone
+* link:Example071Test.java[Example 71] - streamFilterFindFirst
+* Example 72 - minAndMax
+* Example 73 - primitiveMinAndMax
+* Example 74 - minOptionalAndMaxOptional
+* Example 75 - primitiveMinIfEmptyAndMaxIfEmpty
+* Example 76 - minAndMaxThrowsClassCastExceptionIfNotComparable
+* Example 77 - minAndMaxThrowNoSuchElementExceptionIfEmpty
+* Example 78 - minAndMaxWithComparator
+* Example 79 - minByAndMaxBy
+* Example 80 - findFirstMatchingElementInMapActingAsSet
+* Example 81 - findFirstMatchingElementInUnifiedSet
+* Example 82 - findFirstMatchingElementInPool
+* Example 86 - hashingStrategyBag

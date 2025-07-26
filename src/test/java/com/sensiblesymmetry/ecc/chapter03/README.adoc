@@ -1,0 +1,19 @@
+= Chapter 3 - 🧮 Counting Methods
+
+* Example 24 - loopingFromOneToTen
+* link:Example025Test.java[Example 25] - countingFromOneToTen
+* Example 26 - countingFromOneToTenWithStreamAndCollectorsJoining
+* Example 27 - countingOneToTenWithStreamAndCollectors2MakeString
+* Example 28 - intervalExamples
+* Example 30 - findGenerationsByYear
+* link:Example032Test.java[Example 32] - countingUsingPredicates
+* Example 33 - countingUsingPredicate2
+* Example 35 - countWithUsingMethodReference
+* Example 36 - addingToAnEmptyMutableBag
+* Example 37 - bagsMutableWith
+* Example 38 - intBagsMutableWith
+* Example 39 - topOccurrences
+* Example 40 - bottomOccurrences
+* Example 42 - countPresidentsByFirstGenerationServed
+* Example 44 - countPresidentsByEachGeneration
+* Example 45 - imperativeCountPresidentsByEachGeneration

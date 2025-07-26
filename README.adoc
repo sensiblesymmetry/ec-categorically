@@ -3,7 +3,7 @@
 === Method Categories in Java and JavaDoc
 The book link:https://donraab.medium.com/book-eclipse-collections-categorically-37591b2135f5?source=friends_link&sk=03cc75fec4052e377444ede49d6c55b2["Eclipse Collections Categorically: Level up your programming game"] introduces the idea of using method categories to organize feature-rich Java APIs so they are easier to learn and comprehend. The link:https://github.com/eclipse-collections/eclipse-collections/blob/master/eclipse-collections-api/src/main/java/org/eclipse/collections/api/RichIterable.java[source code] and JavaDoc for the `RichIterable` class has been updated in the Eclipse Collections 12.0 release to emulate method categories. When using Eclipse Collections 12.0 or above in IntelliJ IDEA, the structure view and source view will show the method categories for `RichIterable` when browsing the source. See the image below showing RichIterable in the structure view (left pane) and source view (right pane).
 
-image:docs/images/structureview.jpg[height=50%, width=50%]
+image:docs/images/structureview.jpg[height=100%, width=100%]
 
 
 === Source Code Examples

@@ -7,7 +7,7 @@ image:docs/images/structureview.jpg[height=100%, width=100%]
 
 
 === Source Code Examples
-The following _Table of Contents_ contains a full index of all the example numbers with unit test names included in the chapters of the _Eclipse Collections Categorically_ book. There are two *sample* source code examples linked from each chapter of the book. The samples are JUnit 5 tests that can be executed. When you compile and run the tests, there should be `*22*` passing tests.
+The following _Table of Contents_ contains a full index of all the example numbers with unit test names included in the chapters of the _Eclipse Collections Categorically_ book. There are *sample* source code examples linked from each chapter below. The samples are currently limited to two per chapter. The samples are JUnit 5 tests that can be executed. When you compile and run the tests, there should be `*22*` passing tests.
 
 Some of the tests use the shared domain classes named link:src/main/java/com/sensiblesymmetry/ecc/Generation.java[`Generation`] and link:src/main/java/com/sensiblesymmetry/ecc/PresidentOfUSA.java[`PresidentOfUSA`] which are also included from the book. Both domain classes are implemented as Java Enums and are used for historical querying purposes only.
 |===
@@ -39,7 +39,7 @@ Some of the tests use the shared domain classes named link:src/main/java/com/sen
 === Compiling and Running the Source Code
 The source code in this project has been compiled and tested using `*Java 21*` and `*Maven 3.9.9*`. Later versions of Java may be used as well.
 
-The code in this project has been tested and works with Eclipse Collections 11.1, 12.0 and 13.0. The project in this repo uses Eclipse Collections 13.0, which is compatible with Java 17 or above. The code in the published book was originally tested against Eclipse Collections 11.1. Eclipse Collections 11.1 is compatible with Java 8 or above. Eclipse Collections 12.0 is compatible with Java 11 or above.
+The code in this project has been tested and works with Eclipse Collections 11.1.0, 12.0.0 and 13.0.0. The project in this repo uses Eclipse Collections 13.0.0, which is compatible with Java 17 or above. The code in the published book was originally tested against Eclipse Collections 11.1.0. Eclipse Collections 11.1.0 is compatible with Java 8 or above. Eclipse Collections 12.0.0 is compatible with Java 11 or above.
 
 
 === Links to Buy the Book

@@ -1,4 +1,4 @@
-= Chapter 1 - Why Learn Eclipse Collections? 💡
+= Chapter 1 - 💡 Why Learn Eclipse Collections?
 
 * link:Example001Test.java[Example 1] - streamFilterForFilteringEvensAndOdds
 * Example 2 - lazyIterableSelectRejectForFilteringEvensAndOdds

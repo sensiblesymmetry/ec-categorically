@@ -1,4 +1,4 @@
-= Chapter 11 - Key Things to Remember 🔐
+= Chapter 11 - 🔐 Key Things to Remember
 
 * link:Example195Test.java[Example 195] - eagerMutableObjectCollection
 * Example 196 - eagerImmutableObjectCollection
